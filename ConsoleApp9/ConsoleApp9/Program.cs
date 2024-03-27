@@ -6,7 +6,7 @@
         {
             Person person = new Person("rasul", "muradov", 196);
             person.ShowInfo();
-            Student student = new Student("rasul", "murad", 19, 0, 0);
+            Student student = new Student("rasul", "murad", 19,0,0);
             student.Showinfo();
             
 

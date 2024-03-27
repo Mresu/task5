@@ -42,7 +42,7 @@ namespace ConsoleApp9
         }
         public void Showinfo()
         {
-            Console.WriteLine(studentid+" "+point);
+            Console.WriteLine(Name+" "+Surname+" "+Age+" "+studentid+" "+point);
         }
     }
 }
